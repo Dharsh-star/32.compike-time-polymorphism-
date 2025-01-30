@@ -1,4 +1,4 @@
-# 32.compike-time-polymorphism-
+# 32.compile-time-polymorphism-
 
 public class Main {
     public int addition(int X, int Y) {
